@@ -50,10 +50,11 @@
 **Today's Progress**: Completed Code School Try SQL. Worked on my blog [Donde Aprender](http://alvaromesa.com/blog/notas/lecturas/moocs.html) and [Donde Practicar](http://alvaromesa.com/blog/notas/lecturas/practicar.html).
 
 ### Day 18: September 3 , 2017
-**Today's Progress**: Begin Code School jQuery Ajax.Begin to write on 100 days of code Log.
+**Today's Progress**: Begin Code School jQuery Ajax,completed level 2. .Begin to write on 100 days of code Log.
 
 
-**Links of great resources**
+
+**Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
 
 **Link(s) to work**
