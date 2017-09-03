@@ -1,30 +1,64 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Third Try. 
+**Thoughts** After loosing motivation to study, I wanted to try again the 100 days of code to show myself how I improve and keep working on my goals.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 18 , 2017
+**Today's Progress**: Begin Code School Journey Into Mobile. 
+### Day 2: August 19 , 2017
+**Today's Progress**: Completed Code School Journey Into Mobile Level 3.
+### Day 3: August 20 , 2017
+**Today's Progress**: Completed Code School Journey Into Mobile.A good resource [Flexible Math](http://responsv.com/flexible-math/)
+### Day 4: August 21 , 2017
+**Today's Progress**: Begin University Second Semester.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 5: August 22 , 2017
+**Today's Progress**: Begin Code School Try C#. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 6: August 23 , 2017
+**Today's Progress**: Completed Code School Try C#.  
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 7: August 24 , 2017
+**Today's Progress**: Completed Code School Cracking the Case With Flexbox.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 8: August 25 , 2017
+**Today's Progress**: Begin Code School Unmasking HTML emails  
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 9: August 26 , 2017
+**Today's Progress**: Completed Code School Unmasking HTML emails. Begin Code School ES2015: The Shape of JavaScript to Come.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 5: August 27 , 2017
+**Today's Progress**: Worked Code School ES2015: The Shape of JavaScript to Come level 4.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 6: August 28 , 2017
+**Today's Progress**: Completed Code School ES2015: The Shape of JavaScript to Come.
+
+### Day 7: August 28 , 2017
+**Today's Progress**: Completed Code School ES2015: The Shape of JavaScript to Come.
+
+### Day 8: August 29 , 2017
+**Today's Progress**: Begin Code School Powering UP with React.
+
+### Day 9: August 30 , 2017
+**Today's Progress**: worked in Code School Powering UP with React level 2.Begin  Code School Try SQL.
+
+### Day 10: August 31 , 2017
+**Today's Progress**: worked Code School Powering UP with React level 3 and 4.
+
+### Day 11: September 1 , 2017
+**Today's Progress**: Completed Code School Powering UP with React.
+
+### Day 12: September 2 , 2017
+**Today's Progress**: Completed Code School Try SQL. Worked on my blog [Donde Aprender](http://alvaromesa.com/blog/notas/lecturas/moocs.html) and [Donde Practicar](http://alvaromesa.com/blog/notas/lecturas/practicar.html).
+
+### Day 13: September 3 , 2017
+**Today's Progress**: Begin Code School jQuery Ajax.Begin to write on 100 days of code Log.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Links of great resources**
+ [Flexible Math](http://responsv.com/flexible-math/)
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ [Viking School](http://www.vikingcodeschool.com/dashboard/)
+ 
+ 
+
+ 
