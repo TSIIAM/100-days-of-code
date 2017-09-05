@@ -51,6 +51,8 @@
 
 ### Day 18: September 3 , 2017
 **Today's Progress**: Begin Code School jQuery Ajax,completed level 2. .Begin to write on 100 days of code Log.
+### Day 19: September 4 , 2017
+**Today's Progress**: Begin Code School Keeping it Classy C#. Worked on Front End Handbook 2017 note.
 
 
 
