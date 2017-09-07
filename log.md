@@ -57,7 +57,10 @@
 **Today's Progress**: Completed Second Code School Project. Completed jQuery AJAX level 3. 
 Completed [Guia Front End Handbook 2017](http://alvaromesa.com/blog/guias/feh2017.html)
 Completed Level 2 of Keeping it Classy C#.
-
+### Day 21: September 6 , 2017
+**Today's Progress**: Completed Code School jQueryBadges project.
+Completed Code School Keeping it Classy C#.
+Made my first PRequest to an open source project.
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
