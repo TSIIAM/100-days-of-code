@@ -67,6 +67,7 @@ Made my first PRequest to an open source project.
 
 **Link(s) to work**
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
+ [Rithm Shool](https://www.rithmschool.com)
  
  
 
