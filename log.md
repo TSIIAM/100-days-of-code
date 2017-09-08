@@ -61,6 +61,10 @@ Completed Level 2 of Keeping it Classy C#.
 **Today's Progress**: Completed Code School jQueryBadges project.
 Completed Code School Keeping it Classy C#.
 Made my first PRequest to an open source project.
+### Day 22: September 8 , 2017
+**Today's Progress**: Accepted as Coursera Beta-Tester.
+Completed Code School jQuery The Return Flight level 4 and 5.
+
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
