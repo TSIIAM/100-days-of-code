@@ -64,7 +64,10 @@ Made my first PRequest to an open source project.
 ### Day 22: September 8 , 2017
 **Today's Progress**: Accepted as Coursera Beta-Tester.
 Completed Code School jQuery The Return Flight level 4 and 5.
-
+### Day 23: September 10  , 2017
+**Today's Progress**: Completed jQuery the Return flight, begin Code School Try PHP. Made more interviews for my blog.
+### Day 24: September 11 , 2017
+**Today's Progress**:  
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
