@@ -68,9 +68,14 @@ Completed Code School jQuery The Return Flight level 4 and 5.
 **Today's Progress**: Completed jQuery the Return flight, begin Code School Try PHP. Made more interviews for my blog.
 ### Day 24: September 11 , 2017
 **Today's Progress**:  Completed Try PHP level 1.C# console program in classroom.
+### Day 25: September 12 , 2017
+**Today's Progress**:  Completed Try PHP level.
+### Day 26: September 13 , 2017
+**Today's Progress**:   
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
+ [Flexbox Zombies](http://geddski.teachable.com)
 
 **Link(s) to work**
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
