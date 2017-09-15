@@ -71,7 +71,12 @@ Completed Code School jQuery The Return Flight level 4 and 5.
 ### Day 25: September 12 , 2017
 **Today's Progress**:  Completed Try PHP level.
 ### Day 26: September 13 , 2017
-**Today's Progress**:   
+**Today's Progress**:   Completed a new version of my [portfolio](http://alvaromesa.com/)  with bootstrap.
+### Day 27: September 14 , 2017
+**Today's Progress**:   Begin Code School  blasting off bootstrap.Completed level 1.
+### Day 28: September 15 , 2017
+**Today's Progress**: Completed Code School  blasting off  Bootstrap. 
+
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
