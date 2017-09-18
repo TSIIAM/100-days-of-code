@@ -76,8 +76,10 @@ Completed Code School jQuery The Return Flight level 4 and 5.
 **Today's Progress**:   Begin Code School  blasting off bootstrap.Completed level 1.
 ### Day 28: September 15 , 2017
 **Today's Progress**: Completed Code School  blasting off  Bootstrap. 
-### Day 28: September 16 , 2017
+### Day 29: September 16 , 2017
 **Today's Progress**: Begin Code School Git Real.
+### Day 30: September 17 , 2017
+**Today's Progress**: Completed Code School Git Real.
 
 
 **Links of   resources**
