@@ -82,6 +82,29 @@ Completed Code School jQuery The Return Flight level 4 and 5.
 **Today's Progress**: Completed Code School Git Real.
 ### Day 31: September 18 , 2017
 **Today's Progress**: Begin Code School Close Encounter with PHP.
+### Day 32: September 19 , 2017
+**Today's Progress**:  
+### Day 33: September 20 , 2017
+**Today's Progress**:  
+### Day 34: September 21 , 2017
+**Today's Progress**:  
+### Day 35: September 22 , 2017
+**Today's Progress**:  
+### Day 36: September 23 , 2017
+**Today's Progress**:  
+### Day 37: September 24 , 2017
+**Today's Progress**:  
+### Day 38: September 25 , 2017
+**Today's Progress**:  
+### Day 39: September 26 , 2017
+**Today's Progress**:  
+### Day 40: September 27 , 2017
+**Today's Progress**:  
+### Day 41: September 28 , 2017
+**Today's Progress**:  
+### Day 42: September 29 , 2017
+**Today's Progress**:  
+
 
 
 **Links of   resources**
