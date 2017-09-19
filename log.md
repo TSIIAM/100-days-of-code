@@ -83,7 +83,7 @@ Completed Code School jQuery The Return Flight level 4 and 5.
 ### Day 31: September 18 , 2017
 **Today's Progress**: Begin Code School Close Encounter with PHP.
 ### Day 32: September 19 , 2017
-**Today's Progress**:  
+**Today's Progress**:  Completed Code School Close Encounter with PHP.Begin  Code School Fundamentals of Design.
 ### Day 33: September 20 , 2017
 **Today's Progress**:  
 ### Day 34: September 21 , 2017
