@@ -115,6 +115,6 @@ Completed Code School jQuery The Return Flight level 4 and 5.
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
  [Rithm Shool](https://www.rithmschool.com)
  
- 
-
+ **Ideas to Work**
+ Github Dev Locator for HR.
  
