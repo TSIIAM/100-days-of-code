@@ -116,5 +116,5 @@ Completed Code School jQuery The Return Flight level 4 and 5.
  [Rithm Shool](https://www.rithmschool.com)
  
  **Ideas to Work**
- Github Dev Locator for HR.
+ 1. [Github Dev Locator for HR](https://help.github.com/articles/searching-users/#search-based-on-the-location-where-a-user-resides)
  
