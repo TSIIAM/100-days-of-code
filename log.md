@@ -31,78 +31,77 @@
 ### Day 11: August 28 , 2017
 **Today's Progress**: Completed Code School ES2015: The Shape of JavaScript to Come.
 
-### Day 12: August 28 , 2017
-**Today's Progress**: Completed Code School ES2015: The Shape of JavaScript to Come.
-
-### Day 13: August 29 , 2017
+ 
+### Day 12: August 29 , 2017
 **Today's Progress**: Begin Code School Powering UP with React.
 
-### Day 14: August 30 , 2017
+### Day 13: August 30 , 2017
 **Today's Progress**: worked in Code School Powering UP with React level 2.Begin  Code School Try SQL.
 
-### Day 15: August 31 , 2017
+### Day 14: August 31 , 2017
 **Today's Progress**: worked Code School Powering UP with React level 3 and 4.
 
-### Day 16: September 1 , 2017
+### Day 15: September 1 , 2017
 **Today's Progress**: Completed Code School Powering UP with React.
 
-### Day 17: September 2 , 2017
+### Day 16: September 2 , 2017
 **Today's Progress**: Completed Code School Try SQL. Worked on my blog [Donde Aprender](http://alvaromesa.com/blog/notas/lecturas/moocs.html) and [Donde Practicar](http://alvaromesa.com/blog/notas/lecturas/practicar.html).
 
-### Day 18: September 3 , 2017
+### Day 17: September 3 , 2017
 **Today's Progress**: Begin Code School jQuery Ajax,completed level 2. .Begin to write on 100 days of code Log.
-### Day 19: September 4 , 2017
+### Day 18: September 4 , 2017
 **Today's Progress**: Begin Code School Keeping it Classy C#. Worked on Front End Handbook 2017 note.
-### Day 20: September 5 , 2017
+### Day 19: September 5 , 2017
 **Today's Progress**: Completed Second Code School Project. Completed jQuery AJAX level 3. 
 Completed [Guia Front End Handbook 2017](http://alvaromesa.com/blog/guias/feh2017.html)
 Completed Level 2 of Keeping it Classy C#.
-### Day 21: September 6 , 2017
+### Day 20: September 6 , 2017
 **Today's Progress**: Completed Code School jQueryBadges project.
 Completed Code School Keeping it Classy C#.
 Made my first PRequest to an open source project.
-### Day 22: September 8 , 2017
+### Day 21: September 8 , 2017
 **Today's Progress**: Accepted as Coursera Beta-Tester.
 Completed Code School jQuery The Return Flight level 4 and 5.
-### Day 23: September 10  , 2017
+### Day 22: September 10  , 2017
 **Today's Progress**: Completed jQuery the Return flight, begin Code School Try PHP. Made more interviews for my blog.
-### Day 24: September 11 , 2017
+### Day 23: September 11 , 2017
 **Today's Progress**:  Completed Try PHP level 1.C# console program in classroom.
-### Day 25: September 12 , 2017
+### Day 24: September 12 , 2017
 **Today's Progress**:  Completed Try PHP level.
-### Day 26: September 13 , 2017
+### Day 25: September 13 , 2017
 **Today's Progress**:   Completed a new version of my [portfolio](http://alvaromesa.com/)  with bootstrap.
-### Day 27: September 14 , 2017
+### Day 26: September 14 , 2017
 **Today's Progress**:   Begin Code School  blasting off bootstrap.Completed level 1.
-### Day 28: September 15 , 2017
+### Day 27: September 15 , 2017
 **Today's Progress**: Completed Code School  blasting off  Bootstrap. 
-### Day 29: September 16 , 2017
+### Day 28: September 16 , 2017
 **Today's Progress**: Begin Code School Git Real.
-### Day 30: September 17 , 2017
+### Day 29: September 17 , 2017
 **Today's Progress**: Completed Code School Git Real.
-### Day 31: September 18 , 2017
+### Day 30: September 18 , 2017
 **Today's Progress**: Begin Code School Close Encounter with PHP.
-### Day 32: September 19 , 2017
+### Day 31: September 19 , 2017
 **Today's Progress**:  Completed Code School Close Encounter with PHP.Begin  Code School Fundamentals of Design.
-### Day 33: September 20 , 2017
+### Day 32: September 20 , 2017
 **Today's Progress**:  Completed Code School Fundamentals of Design. Begin Code School The Elements of Web Design.
-### Day 34: September 21 , 2017
+### Day 33: September 21 , 2017
 **Today's Progress**:  Completed Code School The Elements of Web Design.Begin Code School Accelerating through Angular.
-### Day 35: September 22 , 2017
+### Day 34: September 22 , 2017
 **Today's Progress**:  Completed Code School Accelerating through Angular.
-### Day 36: September 23 , 2017
+### Day 35: September 23 , 2017
 **Today's Progress**:  
-### Day 37: September 24 , 2017
+Completed  Code School Dev Tools.
+### Day 36: September 24 , 2017
 **Today's Progress**:  
-### Day 38: September 25 , 2017
+### Day 37: September 25 , 2017
 **Today's Progress**:  
-### Day 39: September 26 , 2017
+### Day 38: September 26 , 2017
 **Today's Progress**:  
-### Day 40: September 27 , 2017
+### Day 39: September 27 , 2017
 **Today's Progress**:  
-### Day 41: September 28 , 2017
+### Day 40: September 28 , 2017
 **Today's Progress**:  
-### Day 42: September 29 , 2017
+### Day 41: September 29 , 2017
 **Today's Progress**:  
 
 
