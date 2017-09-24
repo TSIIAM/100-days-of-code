@@ -60,11 +60,14 @@ Code School Powering UP with React level 3 and 4.
 
 ### R1D33
 
-### R1D34
+ 
 
-### R1D35
+### R1D34
 Complete mi primer curso de Angular 2, me resulto mucho más entendible que el curso de React.
 Estuve instalando el IDE Visual Studio 2015 en la PC para trabajar más rapido con C#.
 
-### R1D36
+### R1D35
 Comenze con Code School Dev Tools.Explica como darle uso a las herramientas del desarrollador en google chrome, elements, sources, console, Debugging, Network, Profile y Memoria.
+
+### R1D36
+Complete con Code School Try Docker.
