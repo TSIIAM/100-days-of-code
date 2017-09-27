@@ -96,8 +96,10 @@ Completed  Code School Dev Tools.
 Completed  Code School Try Docker.
 ### Day 37: September 25 , 2017
 **Today's Progress**:  
+Comenze con Proyecto entrega PHP, estructura, mockup, diseño responsivo y formulario alta.
 ### Day 38: September 26 , 2017
-**Today's Progress**:  
+**Today's Progress**: 
+Continue con Proyecto entrega PHP, creacion de base de dato, alta de categorias y productos a la base de datos.
 ### Day 39: September 27 , 2017
 **Today's Progress**:  
 ### Day 40: September 28 , 2017
