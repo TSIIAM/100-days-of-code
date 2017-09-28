@@ -102,10 +102,13 @@ Comenze con Proyecto entrega PHP, estructura, mockup, diseño responsivo y formu
 Continue con Proyecto entrega PHP, creacion de base de dato, alta de categorias y productos a la base de datos.
 ### Day 39: September 27 , 2017
 **Today's Progress**:  
+Gracias a kanbanflow incremente mi productividad, logre Completar el Proyecto PHP MySQL!.
 ### Day 40: September 28 , 2017
 **Today's Progress**:  
 ### Day 41: September 29 , 2017
 **Today's Progress**:  
+### Day 42: September 30 , 2017
+**Today's Progress**: 
 
 
 
@@ -116,6 +119,7 @@ Continue con Proyecto entrega PHP, creacion de base de dato, alta de categorias 
 **Link(s) to work**
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
  [Rithm Shool](https://www.rithmschool.com)
+ [Kanbanflow  ](https://kanbanflow.com)
  
  **Ideas to Work**
  1. [Github Dev Locator for HR](https://help.github.com/articles/searching-users/#search-based-on-the-location-where-a-user-resides)
