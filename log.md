@@ -105,11 +105,13 @@ Continue con Proyecto entrega PHP, creacion de base de dato, alta de categorias 
 Gracias a kanbanflow incremente mi productividad, logre Completar el Proyecto PHP MySQL!.
 ### Day 40: September 28 , 2017
 **Today's Progress**:  
+Complete Code School Try ASP.
 ### Day 41: September 29 , 2017
 **Today's Progress**:  
+Trabaje en el obligatorio de Bases datos 1.
 ### Day 42: September 30 , 2017
 **Today's Progress**: 
-
+Trabaje en el obligatorio de Bases datos 1.
 
 
 **Links of   resources**
