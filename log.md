@@ -112,6 +112,15 @@ Trabaje en el obligatorio de Bases datos 1.
 ### Day 42: September 30 , 2017
 **Today's Progress**: 
 Trabaje en el obligatorio de Bases datos 1.
+### Day 43: October 1 , 2017
+**Today's Progress**: 
+Comenze con node.js en Code School.
+### Day 44: October 2 , 2017
+**Today's Progress**: 
+Entregue el Obligatorio de Bases de Datos 1.
+### Day 45: October 3 , 2017
+**Today's Progress**: 
+Continue con Clean Code en Pluralsight, Codewar Kata y Complete node.js en Code School.
 
 
 **Links of   resources**
@@ -121,7 +130,7 @@ Trabaje en el obligatorio de Bases datos 1.
 **Link(s) to work**
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
  [Rithm Shool](https://www.rithmschool.com)
- [Kanbanflow  ](https://kanbanflow.com)
+ [Kanbanflow ](https://kanbanflow.com)
  
  **Ideas to Work**
  1. [Github Dev Locator for HR](https://help.github.com/articles/searching-users/#search-based-on-the-location-where-a-user-resides)
