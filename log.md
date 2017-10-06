@@ -121,6 +121,9 @@ Entregue el Obligatorio de Bases de Datos 1.
 ### Day 45: October 3 , 2017
 **Today's Progress**: 
 Continue con Clean Code en Pluralsight, Codewar Kata y Complete node.js en Code School.
+### Day 46: October 6 , 2017
+**Today's Progress**: 
+Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breaking the Ice with regular expresions en Code School.
 
 
 **Links of   resources**
