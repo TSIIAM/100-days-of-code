@@ -124,7 +124,12 @@ Continue con Clean Code en Pluralsight, Codewar Kata y Complete node.js en Code 
 ### Day 46: October 6 , 2017
 **Today's Progress**: 
 Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breaking the Ice with regular expresions en Code School.
-
+### Day 47: October 7 , 2017
+**Today's Progress**: Llegue a la mitad de Try R en Code School.
+### Day 48: October 8 , 2017
+**Today's Progress**: Complete Tarea 2 de Programacion 2.
+### Day 49: October 9 , 2017
+**Today's Progress**: Complete Try R en Code School. 
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
