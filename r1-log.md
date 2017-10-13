@@ -71,3 +71,38 @@ Comenze con Code School Dev Tools.Explica como darle uso a las herramientas del 
 
 ### R1D36
 Complete con Code School Try Docker.
+
+### R1D37
+Luego de bastante tiempo, retome el desarrollo con php, arme la structura del sitio para el proyecto de bios.
+
+### R1D38
+Luego de tener el sitio y los formularios cree una base de datos con Mysql y la ayuda del gestor heidiSQL.
+
+### R1D39
+Con la ayuda de kanbanflow logre concentrarme y termine con el proyecto de BIOS de PHP&MYSQL.
+
+### R1D40
+Complete curso de Code School Try ASP.
+
+### R1D41
+Fin de semana trabajando en el obligatorio de Bases de Datos 1.
+### R1D42
+Continue con esquema MER del obligatorio.
+
+### R1D43
+
+
+### R1D44
+### R1D45
+### R1D46
+### R1D47
+### R1D48
+
+
+### R1D49
+Complete en Code School Try R.
+### R1D50
+Complete en Code School Go lang.
+
+### R1D51
+Complete en Code School Assembling Sass.

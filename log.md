@@ -130,14 +130,23 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete Tarea 2 de Programacion 2.
 ### Day 49: October 9 , 2017
 **Today's Progress**: Complete Try R en Code School. 
+### Day 50: October 12 , 2017
+**Today's Progress**: Complete Go lang en Code School.
+### Day 51: October 13 , 2017
+**Today's Progress**: Complete Assembling Sass en Code School.
+
+
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
+
  [Flexbox Zombies](http://geddski.teachable.com)
 
 **Link(s) to work**
  [Viking School](http://www.vikingcodeschool.com/dashboard/)
+
  [Rithm Shool](https://www.rithmschool.com)
+
  [Kanbanflow ](https://kanbanflow.com)
  
  **Ideas to Work**
