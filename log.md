@@ -134,7 +134,8 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete Go lang en Code School.
 ### Day 51: October 13 , 2017
 **Today's Progress**: Complete Assembling Sass en Code School.
-
+### Day 52: October 16 , 2017
+**Today's Progress**: Complete Try Laravel  en Code School.
 
 
 **Links of   resources**
