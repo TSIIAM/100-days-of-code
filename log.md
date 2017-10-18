@@ -136,7 +136,8 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete Assembling Sass en Code School.
 ### Day 52: October 16 , 2017
 **Today's Progress**: Complete Try Laravel  en Code School.
-
+### Day 53: October 18 , 2017
+**Today's Progress**: Complete From Form to Table with Laravel  en Code School.
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
