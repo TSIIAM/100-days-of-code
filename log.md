@@ -138,6 +138,14 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete Try Laravel  en Code School.
 ### Day 53: October 18 , 2017
 **Today's Progress**: Complete From Form to Table with Laravel  en Code School.
+### Day 54: October 20, 2017
+**Today's Progress**: Trabajando en la aplicacion de consola de C# para proyecto de programacion 2.
+### Day 55: October 22 , 2017
+**Today's Progress**: Complete el registro de Usuarios, servicios y metodos para registros de eventos.
+### Day 56: October 24 , 2017
+**Today's Progress**: Complete registro de Eventos y aplicación de consola funcionando.
+
+
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
