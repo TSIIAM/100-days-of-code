@@ -144,7 +144,10 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete el registro de Usuarios, servicios y metodos para registros de eventos.
 ### Day 56: October 24 , 2017
 **Today's Progress**: Complete registro de Eventos y aplicación de consola funcionando.
-
+### Day 57: October 25 , 2017
+**Today's Progress**: Comenze con Code School Forging Ahead With ASP.NET Core.
+### Day 58: October 26 , 2017
+**Today's Progress**: Complete aplicacion de Consola y Entregue Obligatorio.
 
 
 **Links of   resources**
