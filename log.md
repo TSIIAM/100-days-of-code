@@ -148,6 +148,12 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Comenze con Code School Forging Ahead With ASP.NET Core.
 ### Day 58: October 26 , 2017
 **Today's Progress**: Complete aplicacion de Consola y Entregue Obligatorio.
+### Day 59: October 28 , 2017
+**Today's Progress**: Built a Character Database App With .NET MVC.
+### Day 60: October 30 , 2017
+**Today's Progress**: Complete Code School Forging Ahead With ASP.NET Core.
+
+
 
 
 **Links of   resources**
