@@ -1,5 +1,5 @@
 # 100 Days Of Code - Third Try. 
-**Thoughts** I need more motivation to study, so I wanted to try again the 100 days of code to show myself how I improve and keep working on my goals.
+**Thoughts** I needed more motivation to study, so I wanted to try again the 100 days of code to show myself how I improve and keep working on my goals.
 
 ### Day 1: August 18 , 2017
 **Today's Progress**: Begin Code School Journey Into Mobile. 
