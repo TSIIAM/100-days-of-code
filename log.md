@@ -152,10 +152,12 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Built a Character Database App With .NET MVC.
 ### Day 60: October 30 , 2017
 **Today's Progress**: Complete Code School Forging Ahead With ASP.NET Core.
-### Day 61: November , 2017
+### Day 61: November 1, 2017
 **Today's Progress**: Complete Code School Shaping up Angularjs.
-
-
+### Day 62: November 3, 2017
+**Today's Progress**: Comenze con  Code School Staying-sharp with Angularjs.
+### Day 63: November 4, 2017
+**Today's Progress**: Complete    Code School Staying-sharp with Angularjs.
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
