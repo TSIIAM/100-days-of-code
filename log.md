@@ -156,8 +156,10 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete Code School Shaping up Angularjs.
 ### Day 62: November 3, 2017
 **Today's Progress**: Comenze con  Code School Staying-sharp with Angularjs.
-### Day 63: November 4, 2017
+### Day 63: November 5, 2017
 **Today's Progress**: Complete    Code School Staying-sharp with Angularjs.
+### Day 64: November 10, 2017
+**Today's Progress**: Comenze    Code School Sequel to SQL.
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
