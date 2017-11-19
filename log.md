@@ -160,6 +160,16 @@ Complete   Clean Code en Pluralsight,  practico Codewar Katas y Complete Breakin
 **Today's Progress**: Complete    Code School Staying-sharp with Angularjs.
 ### Day 64: November 10, 2017
 **Today's Progress**: Comenze    Code School Sequel to SQL.
+### Day 65: November 12, 2017
+**Today's Progress**: Complete    Code School Sequel to SQL.
+### Day 66: November 13, 2017
+**Today's Progress**: Comenze    Code School Building Blocks of Express.js.
+### Day 67: November 15, 2017
+**Today's Progress**: Complete    Code School Building Blocks of Express.js.
+### Day 68: November 17, 2017
+**Today's Progress**: Comenze    Code School MongoDB.
+### Day 69: November 19, 2017
+**Today's Progress**: Complete    Code School MongoDB.
 
 **Links of   resources**
  [Flexible Math](http://responsv.com/flexible-math/)
